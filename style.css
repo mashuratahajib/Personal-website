@@ -58,8 +58,9 @@ section{
     margin-left: 10%;
     margin-right: 8%;
     background-image: url("images/latest-work-bg.png");
-    background-position:right;
-    background-size: 100%;
+    background-position:right top;
+    background-size: 70%;
+    background-repeat: no-repeat;
 }
 .align{
     text-align: center;
