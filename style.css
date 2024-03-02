@@ -57,10 +57,13 @@ section{
 .latest-work{
     margin-left: 10%;
     margin-right: 8%;
+    background-image: url("images/latest-work-bg.png");
+    background-position:right;
+    background-size: 100%;
 }
 .align{
     text-align: center;
-    padding-bottom: 3%;
-    padding-top: 2%;
+    padding-bottom: 5%;
+    padding-top: 5%;
 }
 
