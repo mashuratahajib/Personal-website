@@ -1,0 +1,66 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0%;
+}
+h1{
+    color: crimson;
+}
+h2{
+    font-size: 20px;
+}
+p{
+    color: dimgrey;
+    text-align: left;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+    padding-bottom: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+section{
+    height: 600px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: crimson;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800px;
+}
+.bio{
+    background-image: url("images/biography-bg.png");
+    background-position: 20% 20%;
+}
+#dummy-text{
+    padding-top: 80px;
+    margin-left: 0%;
+}
+#myself{
+    padding-top: 80px;
+}
+.latest-work img{
+    width: 30%;
+    float: left;
+    padding-left: 20px;
+}
+.latest-work{
+    margin-left: 10%;
+    margin-right: 8%;
+}
+.align{
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top: 2%;
+}
+
