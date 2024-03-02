@@ -67,4 +67,33 @@ section{
     padding-bottom: 5%;
     padding-top: 5%;
 }
+.bruce-moccy{
+    text-align: center;
+}
+#founder{
+    color: grey;
+    font-size: 10px;
+    padding-bottom: 2%;
+    text-align: center;
+}
+.bruce{
+    padding-top: 2%;
+    text-align: center;
+    color: black;
+    font-weight: 700px;
+}
+.simple-text{
+    color: black;
+    text-align: center;
+    text-justify: distribute;
+    font-size: 15px;
+}
+p{
+    text-align: center;
+    font-size: 10px;
+}
+.email-link{
+    text-decoration: none;
+    padding: 10px 10px;
+}
 
