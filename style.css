@@ -73,7 +73,7 @@ section{
 #founder{
     color: grey;
     font-size: 10px;
-    padding-bottom: 2%;
+    padding-bottom: 3%;
     text-align: center;
 }
 .bruce{
@@ -87,13 +87,18 @@ section{
     text-align: center;
     text-justify: distribute;
     font-size: 15px;
-}
-p{
-    text-align: center;
-    font-size: 10px;
+    padding-bottom: 2%;
 }
 .email-link{
     text-decoration: none;
-    padding: 10px 10px;
+    padding: 30px 30px;
+    background-color: crimson;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
 }
 
