@@ -97,8 +97,16 @@ section{
     color: white;
     font-weight: 700px;
 }
+.bruce-moccy{
+    padding-top: 2%;
+    background-image: url("images/footer-bg.png"); 
+    background-position: left;
+    background-size: 60%;
+    background-repeat: no-repeat;
+}
 footer p{
     text-align: center;
     font-size: 10px;
 }
+
 
